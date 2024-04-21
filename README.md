@@ -23,3 +23,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 For Educational Purpose Only 
 
 *Developed By:*
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey20&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Wahab+khan!;" />
+</h1>
